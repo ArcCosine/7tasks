@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "assert": "^1.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "mocha": "^4.0.1"
+  }
+}
